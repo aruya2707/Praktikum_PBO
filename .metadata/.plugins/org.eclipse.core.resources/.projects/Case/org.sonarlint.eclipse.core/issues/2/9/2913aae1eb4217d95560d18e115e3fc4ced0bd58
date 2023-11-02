@@ -1,0 +1,12 @@
+
+\	java:S106&"+Replace this use of System.out by a logger.(¤´Þ–8áÕ–Õ·1H!RMAJORZ
+CODE_SMELL
+a	java:S106#"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ÕÈÉÕ·1H-RMAJORZ
+CODE_SMELL
+‰	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÙËàãÿÿÿÿÿHRMINORZ
+CODE_SMELL
+a	java:S106"+Replace this use of System.out by a logger.(¢ŒåŒûÿÿÿÿ8áÕ–Õ·1H RMAJORZ
+CODE_SMELL
+d
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8—ïØÕ·1H+RCRITICALZ
+CODE_SMELL

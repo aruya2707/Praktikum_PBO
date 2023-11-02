@@ -1,0 +1,17 @@
+
+U	java:S106"+Replace this use of System.out by a logger.(÷˜†¸H8RMAJORZ
+CODE_SMELL
+‰	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·‹ëıÿÿÿÿHRMINORZ
+CODE_SMELL
+Z	java:S106"+Replace this use of System.out by a logger.(ÄáÛùşÿÿÿÿH9RMAJORZ
+CODE_SMELL
+L
+java:S1659"!Declare "sum" on a separate line.(»ú‚H5RMINORZ
+CODE_SMELL
+d
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Çç‚Ö·1H@RCRITICALZ
+CODE_SMELL
+p
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(¬¦“×úÿÿÿÿH7RBLOCKERZBUG
+r	java:S125"<This block of commented-out lines of code should be removed.(¿„ÅÖÿÿÿÿÿ8äŠ¤Ö·1HPRMAJORZ
+CODE_SMELL

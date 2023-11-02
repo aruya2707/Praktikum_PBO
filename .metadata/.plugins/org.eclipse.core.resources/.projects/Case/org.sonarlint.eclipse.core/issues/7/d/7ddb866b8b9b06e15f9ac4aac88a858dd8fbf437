@@ -1,0 +1,14 @@
+
+d
+java:S2093	"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ö±¹Ö·1H{RCRITICALZ
+CODE_SMELL
+\	java:S106"+Replace this use of System.out by a logger.(­¶Íù8ÎßµÖ·1H}RMAJORZ
+CODE_SMELL
+a	java:S106"+Replace this use of System.out by a logger.(ÈĞÒıÿÿÿÿ8ÎßµÖ·1H~RMAJORZ
+CODE_SMELL
+‰	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ¤¦«ıÿÿÿÿHRMINORZ
+CODE_SMELL
+]	java:S106"+Replace this use of System.out by a logger.(äìÎÆ8ÎßµÖ·1H€RMAJORZ
+CODE_SMELL
+b	java:S106"+Replace this use of System.out by a logger.(å—¼®ÿÿÿÿÿ8ÎßµÖ·1HRMAJORZ
+CODE_SMELL
